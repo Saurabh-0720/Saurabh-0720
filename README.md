@@ -1,8 +1,8 @@
-# Hey, I'm Saurabh Sati 👋
+# HEYYY FOLKS !
 
 ### C++ • Systems Programming • Go Backend Engineering
 
-Computer Science undergraduate at **IIIT Senapati, Manipur**  
+Computer Science undergraduate at **Indian Institute Of Information Technology Senapati, Manipur**  
 Software Development Fellow at **TEXMiN-IIIT Manipur Mining CPS Centre of Excellence**
 
 I build software with a focus on **performance, reliability, and clean engineering** — from C++ problem-solving to backend services in Go.
@@ -22,12 +22,11 @@ I build software with a focus on **performance, reliability, and clean engineeri
 
 ## About me
 
-- 🎓 Pursuing a **B.Tech in Computer Science and Engineering (AI & Data Science)**.
-- ⚙️ Interested in **modern C++, systems programming, concurrency, and performance engineering**.
-- 🐹 Building backend services in **Go**, with an interest in APIs, job processing, databases, and distributed systems.
-- 🧪 Software Development Fellow at **TEXMiN**, contributing to GeoProspect, an ML-powered mineral prospectivity mapping platform.
-- 🧩 Solved **500+ algorithmic problems** across coding platforms; **Codeforces Specialist (1407 rating)**.
-- 🚀 I enjoy learning by building, testing, and improving software.
+I'm driven by two things: **solving hard problems and building systems that can scale**. Competitive programming has taught me to break down complex problems, reason about trade-offs, and turn ideas into efficient implementations. I'm particularly interested in **C++ and systems programming**, where performance and understanding what happens under the hood matter, and **Go backend engineering**, where concurrency, reliability, and thoughtful architecture come together.
+
+I'm currently focused on sharpening my problem-solving skills while building backend projects and exploring how complex systems fit together—from APIs and databases to asynchronous processing and failure handling. I enjoy going beyond making something work to understanding why it works, identifying bottlenecks, and figuring out how to make it better.
+
+I've solved **500+ algorithmic problems** across coding platforms and currently hold a **1407 Codeforces rating (Specialist)**. My goal is to keep pushing both sides of the craft: becoming better at solving challenging problems and learning to design, build, test, and scale increasingly complex software.
 
 ## Featured project
 
@@ -45,7 +44,7 @@ Built a job queue service in Go to explore asynchronous task processing and back
 
 ## Other projects
 
-### 🗺️ GeoProspect
+### 🗺️ GeoProspect (UNDER DEVELOPMENT)
 Developing modular software for mineral prospectivity mapping using geological and geophysical datasets, including data processing, feature engineering, model integration, and visualization.
 
 ### 🚢 POMS — Port Operations Management System
@@ -66,8 +65,6 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 </p>
@@ -79,18 +76,11 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
 - **Codeforces:** Specialist — 1407 rating
 - **Problem solving:** 500+ problems across coding platforms
 
-## Leadership
-
-- Co-Lead, **Synapse — Machine Learning Club**, IIIT Senapati
-- Head of Esports Operations, **Ahouba 3.0** (2025)
-
----
-
 <div align="center">
 
 ### Always learning. Always building.
 
-*Interested in systems programming, backend engineering, and performance-focused software.*
+*Interested in Systems programming, Backend engineering, and Performance-focused software.*
 
 </div>
-"""
+
