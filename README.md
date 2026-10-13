@@ -42,10 +42,20 @@ I've solved **500+ algorithmic problems** across coding platforms and currently 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## Competitive programming
+## 💻 Competitive Programming
 
-- **Codeforces:** Specialist — 1407 rating
-- **Problem solving:** 500+ problems across coding platforms
+<p align="center">
+  <a href="https://codolio.com/profile/Saurbh07">
+    <img src="https://img.shields.io/badge/Codolio-View%20My%20Portfolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" alt="View Codolio Portfolio">
+  </a>
+  <a href="https://codeforces.com/profile/Saurabh-0720">
+    <img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201407-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile">
+  </a>
+</p>
+
+- **Problems solved:** 500+ across coding platforms
+- **Codeforces rating:** 1407 (Specialist)
+- **Coding portfolio:** [View my Codolio profile](https://codolio.com/profile/Saurbh07)
   
 ## Featured project
 
