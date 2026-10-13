@@ -1,28 +1,20 @@
 # HEYYY FOLKS !
 
-### C++ • Systems Programming • Go Backend Engineering
+### C++ • Systems Programming • Go Backend & Distributed Systems
 
-Computer Science undergraduate at **Indian Institute Of Information Technology Senapati, Manipur**  
-Software Development Fellow at **TEXMiN-IIIT Manipur Mining CPS Centre of Excellence**
+Computer Science Undergrad at **Indian Institute Of Information Technology Senapati, Manipur**  
+Software Development & Research Fellow at **TEXMiN-IIIT Manipur Mining CPS Centre of Excellence**
 
 I build software with a focus on **performance, reliability, and clean engineering** — from C++ problem-solving to backend services in Go.
 
-<p>
-  <a href="https://www.linkedin.com/in/saurabh-sati-709b09313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:saurabhsati38@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/saurabh-sati-709b09313/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"> </a> <a href="mailto:saurabhsati38@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email"> </a> </p>
 
-</div>
 
 ---
 
 ## About me
 
-I'm driven by two things: **solving hard problems and building systems that can scale**. Competitive programming has taught me to break down complex problems, reason about trade-offs, and turn ideas into efficient implementations. I'm particularly interested in **C++ and systems programming**, where performance and understanding what happens under the hood matter, and **Go backend engineering**, where concurrency, reliability, and thoughtful architecture come together.
+I'm driven by two things: **solving hard problems and building systems that can scale**. Competitive programming has taught me to break down complex problems, reason about trade-offs, and turn ideas into efficient implementations. I'm particularly interested in **C++ and systems programming**, where performance and understanding what happens under the hood matter, and **Go backend and distributed systems**, where concurrency, reliability, and thoughtful architecture come together.
 
 I'm currently focused on sharpening my problem-solving skills while building backend projects and exploring how complex systems fit together—from APIs and databases to asynchronous processing and failure handling. I enjoy going beyond making something work to understanding why it works, identifying bottlenecks, and figuring out how to make it better.
 
@@ -57,7 +49,7 @@ I've solved **500+ algorithmic problems** across coding platforms and currently 
 - **Codeforces rating:** 1407 (Specialist)
 - **Coding portfolio:** [View my Codolio profile](https://codolio.com/profile/Saurbh07)
   
-## Featured project
+## Featured projects
 
 ### ⚙️ JobHarbor — Distributed Job Queue in Go
 *A Redis-backed background job queue with multi-node workers, failure handling, and a live dashboard*
@@ -76,6 +68,25 @@ I've solved **500+ algorithmic problems** across coding platforms and currently 
 
 **Repository:** [JobHarbor](https://github.com/Saurabh-0720/JobHarbor)
 
+---
+
+### 📡 MeshLink — Offline-First Mesh Chat in Go
+*Local-network chat that keeps working when the internet doesn't*
+
+Built for campus networks hit by internet shutdowns: everyone on the same hostel wifi can still talk, with no internet and no central server.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saurabh-0720/MeshLink/main/MeshLink.png" alt="MeshLink chat running on a local network" width="760">
+</p>
+
+- **Messaging:** encrypted private chats and public channels
+- **Resilience:** SOS alerts and peer-to-peer message relaying between nodes
+- **No infrastructure:** no internet or central server required
+
+*Go · Peer-to-peer networking · Local network discovery*
+
+**Repository:** [MeshLink](https://github.com/Saurabh-0720/MeshLink)
+
 ## Other projects
 
 ### 🗺️ GeoProspect (UNDER DEVELOPMENT)
@@ -93,10 +104,7 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
 
 **Currently focusing on:** C++ · Go · Data Structures & Algorithms · Concurrency · Operating Systems · DBMS · Computer Networks
 
-<div align="center">
 
 ### Always learning. Always building.
 
-*Interested in Systems programming, Backend engineering, and Performance-focused software.*
-
-</div>
+*Interested in Systems programming, Distributed backends, and Performance-focused software.*
