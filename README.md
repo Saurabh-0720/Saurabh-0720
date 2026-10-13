@@ -30,17 +30,22 @@ I've solved **500+ algorithmic problems** across coding platforms and currently 
 
 ## Featured project
 
-### ⚙️ Go Job Queue
-*A Go-based backend job processing service*
+### ⚙️ JobHarbor — Distributed Job Queue in Go
+*A Redis-backed background job queue with multi-node workers, failure handling, and a live dashboard*
 
-Built a job queue service in Go to explore asynchronous task processing and backend system design.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saurabh-0720/JobHarbor/main/docs/dashboard-redis.png" alt="JobHarbor dashboard running on real Redis with four worker nodes" width="760">
+</p>
 
-- Job submission and processing workflow
-- Concurrent workers for executing queued jobs
-- Job lifecycle and failure-handling design
-- Repository documentation and implementation details will be updated as the project evolves
+- **Atomic claiming:** Redis Lua scripts let worker nodes on different machines pull from one queue without ever taking the same job
+- **Reliability:** priorities, delayed jobs, retries with exponential backoff and jitter, a dead-letter queue, idempotency keys, and lease-based crash recovery (at-least-once delivery)
+- **Observability:** live dashboard, p50/p90/p99 queue-wait and run-time latency, and a Prometheus `/metrics` endpoint
+- **Tested and measured:** Go tests against an in-memory Redis cover priority order, retries, dead-lettering, idempotency, and crashed-worker recovery. In demo runs, median queue wait was about **110 ms** across 4 worker containers sharing one Redis, and **188 ms** at roughly 20 jobs/s with 32 workers. I also reproduced saturation with 4 workers to see how the backlog grows.
+- Run modes: single process with embedded Redis, or real Redis with `docker compose up --scale worker=4`
 
-**Repository:** [Go Job Queue](YOUR_JOB_QUEUE_GITHUB_URL)
+*Go · Redis · Lua · Docker · Prometheus metrics*
+
+**Repository:** [JobHarbor](https://github.com/Saurabh-0720/JobHarbor)
 
 ## Other projects
 
@@ -67,6 +72,7 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
 **Currently focusing on:** C++ · Go · Data Structures & Algorithms · Concurrency · Operating Systems · DBMS · Computer Networks
@@ -83,4 +89,3 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
 *Interested in Systems programming, Backend engineering, and Performance-focused software.*
 
 </div>
-
