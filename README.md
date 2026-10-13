@@ -28,6 +28,25 @@ I'm currently focused on sharpening my problem-solving skills while building bac
 
 I've solved **500+ algorithmic problems** across coding platforms and currently hold a **1407 Codeforces rating (Specialist)**. My goal is to keep pushing both sides of the craft: becoming better at solving challenging problems and learning to design, build, test, and scale increasingly complex software.
 
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+## Competitive programming
+
+- **Codeforces:** Specialist — 1407 rating
+- **Problem solving:** 500+ problems across coding platforms
+  
 ## Featured project
 
 ### ⚙️ JobHarbor — Distributed Job Queue in Go
@@ -62,25 +81,7 @@ A sensor-based anomaly detection system with an interactive geospatial monitorin
 
 [GitHub repository](https://github.com/Saurabh-0720/Pipeline_Leak_Detection)
 
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</p>
-
 **Currently focusing on:** C++ · Go · Data Structures & Algorithms · Concurrency · Operating Systems · DBMS · Computer Networks
-
-## Competitive programming
-
-- **Codeforces:** Specialist — 1407 rating
-- **Problem solving:** 500+ problems across coding platforms
 
 <div align="center">
 
